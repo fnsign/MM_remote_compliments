@@ -1,0 +1,70 @@
+{
+    "anytime": [
+        "Was geht, Digga?",
+        "Na? Nix besseres zu tun?",
+        "Wann hast du zuletzt den Friseur gesehen?",
+        "Rasieren wäre mal eine Option.",
+        "Ok...ich sag besser mal nix."
+    ],
+    "morning": [
+        "Schönen guten Morgen!",
+        "Genieß den Tag!",
+        "Ich hoffe, du hast gut geschlafen?",
+        "Schon so früh auf den Beinen?"
+    ],
+    "afternoon": [
+        "Hallo, schön Dich zu sehen!",
+        "You look sexy!",
+        "Du siehst fabelhaft aus!"
+    ],
+    "evening": [
+        "Schönen guten Abend!",
+        "Heute Abend noch was vor?",
+        "Take a walk on the wilde side!",
+        "Sooo...Feierabend, Emma!"
+    ],
+    "....-01-01": [
+        "Happy new year!"
+    ],
+    "....-07-19": [
+        "Alles Gute zum Geburtstag, Fozi!\n Genieß den Tag und laß dich feiern!"
+    ],
+    "....-10-30": [
+        "Happy Halloween!\n HUAAHHHH!"
+    ],
+    "snow": [
+        "Snowball battle!"
+    ],
+    "day_sunny": [
+        "Today is a sunny day",
+        "It's a beautiful day",
+        "The sun is shining today!",
+        "It's such a beautiful day",
+        "It's gorgeous outside, go play!"
+    ],
+    "day_cloudy": [
+        "It's cloudy out there, but no meatballs",
+        "It may be cloudy, but it's still nice out!",
+        "The sun is hiding right now"
+    ],
+    "cloudy": [],
+    "cloudy_windy": [],
+    "showers": [],
+    "rain": [
+        "Regenschirm nicht vergessen!",
+        "Heut siehts schwer nach Regen aus."
+        
+    ],
+    "thunderstorm": [],
+    "fog": [],
+    "night_clear": [
+        "Weather forecast for tonight: dark"
+    ],
+    "night_cloudy": [],
+    "night_showers": [],
+    "night_rain": [],
+    "night_thunderstorm": [
+        "It's a stormy night, don't be scared"
+    ],
+    "night_alt_cloudy_windy": []
+}
